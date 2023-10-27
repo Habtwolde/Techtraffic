@@ -1,4 +1,4 @@
-# TechTraffic 
+# Tech-Traffic 
 
 <p align="justify"> TechTraffic is an Android application developed in 2018 during an internship, aimed at revolutionizing the way traffic violations are recorded and managed in Ethiopia. This repository hosts the source code and project documentation for TechTraffic, providing a professional-grade platform for traffic officers to efficiently register penalties when drivers commit traffic offenses.</p>
 
