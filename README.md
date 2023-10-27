@@ -10,6 +10,7 @@ Comprehensive Reporting: TechTraffic generates comprehensive reports and analyti
 User-Friendly Dashboard: The application features an easy-to-navigate dashboard for traffic officers and administrative personnel, making it convenient to access and manage penalty records.
 
 ##Why TechTraffic?
+
 TechTraffic offers a modern and efficient solution for traffic authorities in Ethiopia to manage and track traffic violations. By providing a streamlined process for penalty registration, location-based services, offline capabilities, and data-driven insights, it enhances the overall traffic management infrastructure, ensuring safer road conditions and improved law enforcement.
 
 ##Contributions and Collaboration:
